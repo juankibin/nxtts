@@ -1,0 +1,10 @@
+# Ignore artifacts:
+.next
+node_modules
+
+# Ignore files:
+*.prettierrc
+#Ignore
+package-lock.json
+package.json
+next-env.d.ts
